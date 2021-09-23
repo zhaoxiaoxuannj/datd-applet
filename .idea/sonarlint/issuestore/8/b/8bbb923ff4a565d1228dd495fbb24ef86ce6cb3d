@@ -1,0 +1,13 @@
+
+E
+java:S5542V"#Use secure mode and padding scheme.(›ü‹÷ùÿÿÿÿ8•ÉˆÕº/
+E
+java:S5542:"#Use secure mode and padding scheme.(›ü‹÷ùÿÿÿÿ8•ÉˆÕº/
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ÁÑï‚8•ÉˆÕº/
+
+java:S1130_"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8•ÉˆÕº/
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(§åÔ”8•ÉˆÕº/
+E
+java:S1148B"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•ÉˆÕº/
+E	java:S108Z")Either remove or fill this block of code.(”ı¾8•ÉˆÕº/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.( ±’òûÿÿÿÿ8•ÉˆÕº/

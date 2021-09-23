@@ -1,0 +1,26 @@
+
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(óè™Œÿÿÿÿÿ8º‚ıÙº/
+I
+java:S1948;",Make "b1istener3" transient or serializable.(¿‹Û¿8·ş–Õº/
+I
+java:S1948:",Make "b1istener2" transient or serializable.(ÓÃ¢®8Ô½ê©º/
+W	java:S125Y"<This block of commented-out lines of code should be removed.(¥„²>8º‚ıÙº/
+]	java:S125?"<This block of commented-out lines of code should be removed.(÷Ø»ëüÿÿÿÿ8º‚ıÙº/
+J
+java:S3398a"(Move this method into "ButtonListener2".(ƒåÌ‡ûÿÿÿÿ8º‚ıÙº/
+H
+java:S19489"+Make "b1istener" transient or serializable.(»ÙÇê8ÿë£º/
+€
+java:S1488^"^Immediately return this expression instead of assigning it to the temporary variable "result".(İ„¾øÿÿÿÿ8¡÷¸Öº/
+J
+java:S1068"-Remove this unused "emptytext" private field.(éŒæÜ8º‚ıÙº/
+]	java:S125F"<This block of commented-out lines of code should be removed.(ÔğâÄüÿÿÿÿ8º‚ıÙº/
+I
+java:S3398\"'Move this method into "ButtonListener".(òÂ†ˆıÿÿÿÿ8º‚ıÙº/
+€
+java:S1488c"^Immediately return this expression instead of assigning it to the temporary variable "result".(òá“şÿÿÿÿ8¡÷¸Öº/
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(—šøÿÿÿÿ8ÎÉ×£º/
+o
+java:S1128"MRemove this unused import 'org.jasypt.intf.cli.JasyptPBEStringEncryptionCLI'.(µ“àşÿÿÿÿ8¥­ÏÖº/
+N
+java:S1948<",Make "b1istener4" transient or serializable.(Ç‘’‹ùÿÿÿÿ8·ş–Õº/

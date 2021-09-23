@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="zxx_applet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zxx_applet_jar</output-path>
+    <root id="root">
+      <element id="archive" name="zxx_applet.jar">
+        <element id="module-output" name="zxx_applet" />
+      </element>
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.13" />
+      <element id="library" level="project" name="Maven: org.jasypt:jasypt:1.9.2" />
+    </root>
+  </artifact>
+</component>
